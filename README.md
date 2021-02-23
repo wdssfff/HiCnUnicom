@@ -8,7 +8,7 @@
 设置 `PARAMETER` 的值为脚本支持的参数，间隔符使用空格即可。  
 进入仓库后点击 `Settings`，右侧栏点击 `Secrets`，点击 `New secret`。添加 `PARAMETER` 的值，为脚本支持的参数如： `githubaction membercenter jifeninfo otherinfo 12345678901@112233 01234567891@123456 appId@247b001385de5cc6ce11731ba1b15835313d489d604e58280e455a6c91e5058651acfb0f0b77029c2372659c319e02645b54c0acc367e692ab24a546b83c302d`  
 
-#### Secrets参数 `PARAMETER` 具体说明:
+#### Secrets参数 `PARAMETER` 具体的好说明:
 | 参数 |  说明  |
 | -------- | ----- |
 | `membercenter` |   加入这个表示会运行除激活流量包的所有签到活动，无则不会签到|
